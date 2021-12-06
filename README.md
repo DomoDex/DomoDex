@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DomoDex
+- 👀 I’m interested in AI and hacking
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on my own projects
